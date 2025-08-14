@@ -1,4 +1,5 @@
 Very slight tweaks over the basic lilypond empty staff paper template that I found somewhere in the help. 
+There are many like it, but this one is mine.
 
 Allows quick config of empty paper according to:
 
